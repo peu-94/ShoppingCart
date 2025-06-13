@@ -1,0 +1,12 @@
+{
+  "name": "shoppingcart",
+  "version": "1.0.0",
+  "description": "shopping cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "yes",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
