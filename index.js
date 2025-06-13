@@ -1,1 +1,1 @@
-console.log("hello world");
+console.error("this file is deleted");
